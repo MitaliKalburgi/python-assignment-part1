@@ -1,6 +1,6 @@
 # python-assignment-part1
 
-## Student Grade Tracker — Python Assignment (Part 1)
+## Student Grade Tracker 
 
 ## 📌 Description
 This project is a command-line based Student Grade Tracker built using core Python concepts.  
